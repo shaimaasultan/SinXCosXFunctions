@@ -56,7 +56,7 @@
 <img src= "Screenshots/Screenshot 2024-01-19 153614.png" />
 <img src= "Screenshots/Screenshot 2024-01-19 153630.png" /> 
 <img src= "Screenshots/Screenshot 2024-01-19 153732.png" />
-<img src= Screenshots/Screenshot 2024-01-19 153749.png />
+<img src= "Screenshots/Screenshot 2024-01-19 153749.png" />
 <img src= "Screenshots/Screenshot 2024-01-19 153806.png" />
 
 * Pi and Sin and Cos
