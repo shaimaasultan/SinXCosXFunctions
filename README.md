@@ -1,4 +1,5 @@
 # SinXCosXFunctions
+* Sin and Cos Clock Video [SinAndCosClock.mp4]
 * Sin and Cos Synchronization
 * Sin(X) and Cos(X) Eigen Characteristics
 * Find X For Cos(Sin(x))=1/2  ?
